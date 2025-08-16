@@ -1,1 +1,1 @@
-# Proyecto de gestion de productos como parte del curso de
+# Proyecto de gestion de productos como parte del curso *"Construcción de Aplicaciones Inteligentes con Spring Boot, Angular & AI"*
